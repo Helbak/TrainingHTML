@@ -1,0 +1,32 @@
+#inputGuess{
+    border: 1px solid rgba(255, 254, 253, 0.07);
+    font-size: 122px;
+}
+#instances{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    color: beige;
+}
+#back{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    color: beige;
+}
+/*.node {*/
+/*    width: 50px;*/
+/*    height: 50px;*/
+/*    border-radius: 50%;*/
+/*    background: red;*/
+/*    position: absolute;*/
+/*    left: 418px;*/
+/*    !* text-align: center; *!*/
+/*    !* line-height: 46px; *!*/
+/*    top: 12px;*/
+/*    display: flex;*/
+/*    justify-content: center;*/
+/*    align-items: center;*/
+/*}*/
+/*"><span>133<span></span></span></div>*/
+
